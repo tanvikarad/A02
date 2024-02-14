@@ -45,6 +45,6 @@ Part 2. Definition
 
 
 Resources :
-www.github.com
-past lectures of IT114
-google for defintions
+- www.github.com
+- past lectures of IT114
+- google for defintions
